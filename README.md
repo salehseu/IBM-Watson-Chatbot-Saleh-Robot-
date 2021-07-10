@@ -9,3 +9,7 @@
 ## The Robot can say welcome and handling greetings. Also, it trained to move as customer needs. 
 
 ![image](https://user-images.githubusercontent.com/86400246/125177657-31d98a00-e1e6-11eb-8805-3ac9c4aa8c99.png)
+
+
+![image](https://user-images.githubusercontent.com/86400246/125177752-1de25800-e1e7-11eb-9e14-c0315d61bde6.png)
+
